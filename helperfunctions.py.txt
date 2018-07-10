@@ -1,0 +1,4 @@
+def listSum(inList):
+    return sum(listSum)
+def listMax(inList):
+    return max(inList)
